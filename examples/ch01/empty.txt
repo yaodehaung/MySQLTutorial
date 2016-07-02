@@ -1,0 +1,5 @@
+ Mysql 打開指令 : mysql -u root -p
+
+顯示databasename : Show databases;
+
+顯示datatable: Show tables;
